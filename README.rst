@@ -19,7 +19,7 @@ Quickstart
 
 First, install ``pip-autoremove``::
 
-    $ pip install pip-autoremove
+    $ pip install --force-reinstall git+https://github.com/SecorD0/pip-autoremove
 
 Install a package which has dependencies, e.g. ``Flask``::
 
